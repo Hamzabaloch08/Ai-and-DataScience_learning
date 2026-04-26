@@ -43,3 +43,16 @@ c = None
 print(a, "boolean")
 print(b, "boolean")
 print(c, "None")
+
+# print or variable practice 
+
+a = 43
+b = 23
+sum = a + b
+sub = a - b
+divide = a / b
+print(sum)
+print(sub)
+print(divide)
+print(int(divide),"float to int")
+
