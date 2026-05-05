@@ -94,9 +94,3 @@ print(value4 and value5)
 print(value5 and value6)
 print(value4 or value5)
 print(value6 or value5)
-
-
-# Type Conversion
-
-# 1. type conversion 2. type casting
-
