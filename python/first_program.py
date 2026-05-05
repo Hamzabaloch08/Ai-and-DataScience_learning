@@ -44,15 +44,59 @@ print(a, "boolean")
 print(b, "boolean")
 print(c, "None")
 
-# print or variable practice 
+# print or variable practice
 
-a = 43
-b = 23
-sum = a + b
-sub = a - b
-divide = a / b
+num1 = 43
+num2 = 23
+sum = num1 + num2
+sub = num1 - num2
+divide = num1 / num2
 print(sum)
 print(sub)
 print(divide)
-print(int(divide),"float to int")
+print(int(divide), "float to int")
+
+# Types of Operators
+
+# Arithmetic Operators (+,-,*,/,%,**)
+
+print(num1 + num2)
+print(num1 - num2)
+print(num1 * num2)
+print(num1 / num2)
+print(num1 % num2)
+print(5**2)
+
+# Relational/comparison Operators (==,!=,>,<,>=,<=)
+
+value1 = 10
+value2 = 10
+value3 = 20
+
+print(value1 == value2)
+print(value1 == value3)
+print(value1 != value3)
+print(value1 > value2)
+print(value1 < value3)
+print(value1 >= value2)
+print(value1 <= value3)
+
+# Assignment Oprators (=,+=,-=,*=,/=,%=,**=)
+# Logical Operators (not, and, or)
+
+
+value4 = True
+value5 = True
+value6 = False
+print(not value4)
+print(not value6)
+print(value4 and value5)
+print(value5 and value6)
+print(value4 or value5)
+print(value6 or value5)
+
+
+# Type Conversion
+
+# 1. type conversion 2. type casting
 
